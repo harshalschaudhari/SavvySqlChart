@@ -1,7 +1,7 @@
 # SavvySqlChart
 
 Savvy SQL CHART (Book)
-publication dateSep 12, 2014  publication descriptionWorkShopBook
+publication dateSep 12, 2014  publication description WorkShopBook
 
 publication descriptionWho is this book For?
 if you can answer "YES" to all of these
