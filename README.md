@@ -10,3 +10,5 @@ if you can answer "YES" to all of these
 3. Do you want to brush up on SQL skill?
 
 Shows you just what you need to know to stay competitive in a shifting marketplace.
+
+Download PDF - <a href="https://www.slideshare.net/HarshalChaudhari21/savvy-sql-chart-book-harshal-chaudhari?ref=http://azure-blaze.blogspot.com/2020/01/savvy-sql-chart-book.html">Download SavvySqlChart.pdf</a>
